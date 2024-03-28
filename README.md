@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m [𝙩𝙞𝙨𝙨𝙪𝙚](github.com/tsssu) aka Kirima
-- ✨ I’m interested in 𝙣𝙤𝙩𝙝𝙞𝙣𝙜
-- 💻 I’m currently learning 𝙮𝙤𝙪
-- 📫 You can reach me by contacting my email [𝙝𝙚𝙧𝙚](mailto:kirima@swdm.my.id) for business inquiries.
+- 👋 Hi, I’m [tasu kamiya](github.com/tsssu)
+- ✨ I’m interested in some projects
+- 💻 I’m currently learning u
+- 📪 You can find me on [Discord Orang Gabut](https://discord.com/invite/szZQjzWR9R).
