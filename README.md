@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsssu
+- 👋 Hi, I’m [Tasu ✨](https://github.com/tsssu/)
 - 👀 I’m interested in backend development 
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on nothing
