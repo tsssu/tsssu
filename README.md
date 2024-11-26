@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development 
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? you can add me @tatsu.rocks at discord.
+- 📫 How to reach me? can't
 - 😄 Pronouns: hi/him
 - ⚡ Fun fact: I love roblox
 
